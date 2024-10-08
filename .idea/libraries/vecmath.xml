@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="vecmath">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/dependencies/vecmath" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/src/dependencies/vecmath" recursive="false" />
+  </library>
+</component>
